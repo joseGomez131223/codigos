@@ -1,7 +1,7 @@
 # =================================================================================
 # File: 2430475_GomezJose_t_strings.py
 # Name: jose gomez
-# Matriculation: 2430048
+# Matriculation: 2430475
 # Group: IM1
 # Course: Communication and Digital Skills
 # Assignment: Strings practice (t_strings)
@@ -454,3 +454,4 @@ Conclusions:
 # 4) Automate the Boring Stuff with Python - "Strings"
 # 5) Official course notes and slides on input validation and string manipulation
 # =================================================================================
+
